@@ -1,0 +1,26 @@
+#datasets
+#datasets/**.csv
+datasets/**.zip
+#datasets/*.csv
+datasets/*.zip
+logs/**.log
+logs/*.log
+logs/**.png
+logs/*.png
+__pycache__
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings
+.vscode/
+.idea/
+
+# Compiled files
+dist/
+build/
+*.egg-info/
+
+.history

@@ -3,7 +3,7 @@
 <p>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2022/2023&color=sucess"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=IA&color=sucess"/>
-  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=?&color=sucess"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=19.5&color=sucess"/>
   <a href="/Enunciado_e_Relatorio/2023.IA.TP.AC.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Utterance-grey?style=for-the-badge"/>
   </a>
@@ -35,9 +35,9 @@ git clone https://github.com/nunofbcastro-ESTG-IPP/IA_2022_2023.git
 pip install -r requirements.txt
 ```
 
-<h4>Download dataset</h4>
+<h4>Dataset</h4>
 
-Install, configure kaggle and run the dataset/download file that matches your system. Note on Windows it is necessary to have git installed and on Linux and MacOS unzip.
+To utilize the complete dataset, delete the file train.csv and extract the train_original.zip file.
 
 <h4>Run project</h4>
 
